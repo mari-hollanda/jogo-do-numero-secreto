@@ -7,5 +7,4 @@ Todo o processo gráfico foi realizado pela equipe de frontend do Curso Alura.
 
 
 ### Agradecimentos
-Guilherme Lima
-Mônica Mazzochi Hillman
+Guilherme Lima e Mônica Mazzochi Hillman
